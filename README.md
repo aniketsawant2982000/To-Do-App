@@ -139,6 +139,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [your-email@example.com]
+Your Name - [aniketsawant2982000@gmail.com]
 
-Project Link: [https://github.com/your-username/todoapp](https://www.google.com/search?q=https://github.com/your-username/todoapp)
+Project Link: [https://github.com/aniketsawant2982000/To-Do-App](https://www.google.com/search?q=https://github.com/aniketsawant2982000/To-Do-App)
